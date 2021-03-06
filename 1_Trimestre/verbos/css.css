@@ -1,0 +1,9 @@
+.incorrectos {
+    border-radius: 5px;
+    border-color: tomato;
+}
+
+.correctos {
+    border-radius: 5px;
+    border-color: green;
+}

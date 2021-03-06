@@ -1,0 +1,16 @@
+.bomba {
+    background-color: black;
+    color: #af1c1c;
+}
+
+.visible {
+    color: black;
+    border-color: #a4ecec;
+    width: 30px;
+    height: 30px;
+}
+
+input[type=submit] {
+    width: 30px;
+    height: 30px;
+}
