@@ -1,0 +1,17 @@
+{% extends 'base.twig' %}
+{% block stylesheets %}
+{{ parent() }}
+{# <link href="../css/blog.css" type="text/css" rel="stylesheet" /> #}
+<link rel="stylesheet" href="../css/screen.css">
+<link rel="stylesheet" href="../css/blog.css">
+<link rel="stylesheet" href="../css/web.css">
+<link rel="stylesheet" href="../css/sidebar.css">
+<link rel="stylesheet" href="./css/screen.css">
+<link rel="stylesheet" href="./css/blog.css">
+<link rel="stylesheet" href="./css/web.css">
+<link rel="stylesheet" href="./css/sidebar.css">
+
+{% endblock %}
+{% block sidebar %}
+{{ include ('sidebar.twig') }}
+{% endblock %}
