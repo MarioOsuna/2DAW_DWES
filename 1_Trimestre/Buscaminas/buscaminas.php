@@ -55,11 +55,11 @@ function crearTablero($nFilas, $nColumnas)
 
                 if (in_array($fc, $_SESSION["bandera"])) {
 
-                    echo "<td><input class=\"bomba\" type=\"submit\" disabled name=$posicion value=\"🏴\"> </td>";
+                    echo "<td><input class=\"bomba\" type=\"submit\" disabled name=$posicion value=\"🚩\"> </td>";
                     //echo "finPartida";
                     //lamar a función peridiste que muestra tablero con bombas;
                 } else if (in_array(array($x, $y), $_SESSION["bombas"])) {
-                    echo "<td><input class=\"bomba\" type=\"submit\" disabled name=$posicion value=\"B\"> </td>";
+                    echo "<td><input class=\"bomba\" type=\"submit\" disabled name=$posicion value=\"💣\"> </td>";
                     ponerBanderas($fc);
                 } else {
 
