@@ -130,6 +130,16 @@
               </ul>
             </li>
             <li class="work-position">
+              <h5>Ficheros&nbsp;&nbsp;&nbsp;<a href="https://github.com/MarioOsuna/2DAW_DWES/tree/main/1_Trimestre/Formularios"><img class="logo" src="img/github.png" alt=""></a></h5>
+
+              <ul>
+               
+                <li><a href="1_Trimestre/Ficheros/CargarFotos/form.php">Subir imagen</a></li>
+                <li><a href="1_Trimestre/Ficheros/usuarios/index.php">Usuarios</a></li>
+              </ul>
+
+            </li>
+            <li class="work-position">
               <h5>Sesiones&nbsp;&nbsp;&nbsp;<a href="https://github.com/MarioOsuna/2DAW_DWES/tree/main/1_Trimestre/Sesiones"><img class="logo" src="img/github.png" alt=""></a></h5>
 
 
@@ -165,6 +175,7 @@
                 <li><a href="1_Trimestre/Funciones/Ejercicio5.php">Ejercicio 5</a></li>
               </ul>
             </li>
+           
             
             <li class="work-position">
               <h5>Formularios&nbsp;&nbsp;&nbsp;<a href="https://github.com/MarioOsuna/2DAW_DWES/tree/main/1_Trimestre/Formularios"><img class="logo" src="img/github.png" alt=""></a></h5>
